@@ -163,7 +163,7 @@ img,a {
     gap: 24px;
 }
 .quality-item{
-    flex-basis: calc((100% - 72px) / 3);;
+    flex-basis: calc((100% - 72px) / 4);;
 }
 .quality-subtitle{
     font-weight: 500;
