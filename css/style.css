@@ -172,7 +172,7 @@ img,a {
     gap: 24px;
 }
 .quality-item{
-    flex-basis: calc((100% - 72px) / 4);;
+    flex-basis: calc((100% - 72px) / 4);
 }
 .quality-subtitle{
     font-weight: 500;
@@ -299,6 +299,7 @@ img,a {
 .example-btn:focus{
     background-color: var(--color-ocean);
     color: var(--color-white);
+    border: none;
     box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 2px 1px rgba(0, 0, 0, 0.08), 0px 2px 2px rgba(0, 0, 0, 0.12);
 }
 .examples-work-list{
